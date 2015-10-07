@@ -2,6 +2,7 @@ package proba;
 
 public class Kaixo {
 
+	// Beste komentario bat
 	Fitxategi f = new Fitxategi();
 	
 	public static void main(String[] args) {
